@@ -23,12 +23,12 @@ const Top10Movies = () => {
       <p className={classes.heading}>Top 10 Movies of this week</p>
       <Grid container spacing={2}>
         
-          {movies &&
+          {/* {movies &&
             movies.items.map((movies, index) => (
               <Grid item xs={12} md={3} direction='column'>
               <MovieCard movies={movies} id={index} />
               </Grid>
-            ))}
+            ))} */}
        
       </Grid>
     </>
