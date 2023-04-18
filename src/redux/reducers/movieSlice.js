@@ -8,7 +8,7 @@ async () => {
 });
 
 const initialState = {
-  movies: {},
+  movies: [],
 };
 
 const movieSlice = createSlice({
