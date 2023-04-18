@@ -1,0 +1,20 @@
+.footerContainer{
+    display: flex;
+    padding: 10px;
+    /* border: 1px solid white; */
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    bottom: 0;
+    
+    background-color: #1e1e1e;
+}
+.footerHeading{
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
